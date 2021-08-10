@@ -9,5 +9,5 @@
 
 
 ## 其他
-- [413.等差数列划分](https://github.com/stream1080/leetcode/blob/main/413-等差数列划分.md)
+- [413.等差数列划分](https://github.com/stream1080/leetcode/blob/main/其他/413-等差数列划分.md)
 

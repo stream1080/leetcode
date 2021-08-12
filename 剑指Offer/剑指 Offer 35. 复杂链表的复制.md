@@ -34,7 +34,7 @@
 
 
 
-## 解析
+## 方法一：哈希表
 题目看起来比较难以理解，简单来说就是复制一个新的链表
 这个链表是特殊链表，处理next，还存在一个random随机节点
 
@@ -65,3 +65,42 @@ class Solution {
     }
 }
 ```
+
+## 方法二：原地修改-迭代
+- 在每一个节点的后面复制一个节点
+- 1-2-3变成1-1'-2-2'-3-3'
+- 将复制后的节点的random赋值
+- 分离新链表和原链表
+- 返回结果
+
+## 参考代码
+```Java
+class Solution {
+    public Node copyRandomList(Node head) {
+        if(head == null)
+            return head;
+        //在每一个节点后面复制一个新节点
+        for(Node node = head,copy = null;node != null;node = node.next.next){
+            copy = new Node(node.val);
+            copy.next = node.next;
+            node.next = copy;
+        }
+        //将每个节点的random进行赋值
+        for(Node node = head;node != null;node = node.next.next){
+            if(node.random != null){
+                node.next.random = node.random.next;
+            }
+        }
+        //分离链表
+        Node newHead = head.next;
+        for(Node node = head,temp = null;node != null && node.next != null;){
+            temp = node.next;
+            node.next = temp.next;
+            node = temp;
+        }
+        //返回
+        return newHead;
+    }
+}
+```
+

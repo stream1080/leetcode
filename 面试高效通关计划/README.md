@@ -2,7 +2,7 @@
 
 ### 第一天
 
-- [1.两数之和]()
+- [1.两数之和](https://github.com/stream1080/leetcode/edit/main/面试高效关计划/1.两数之和.md)
 
 - [167. 两数之和 II - 输入有序数组]()
 

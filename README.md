@@ -1,14 +1,20 @@
 # leetcode 刷题笔记
 
 
-#### 剑指Offer
+## [剑指Offer](https://github.com/stream1080/leetcode/blob/main/剑指Offer)
+- leetcode上面的剑指Offer刷题计划
 
 
+## [面试高效通关计划](https://github.com/stream1080/leetcode/blob/main/面试高效通关计划)
+- leetcode上面面试高效通关计划
 
-#### 面试高效通关计划
+## 数组
 
+## 链表
 
-#### 其他
+## 字符串
+
+## 其他
 
 - [005-最长回文子串](https://github.com/stream1080/leetcode/blob/main/其他/413-等差数列划分.md)
 

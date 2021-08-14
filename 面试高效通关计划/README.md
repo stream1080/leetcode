@@ -18,3 +18,9 @@
 
 - [70-爬楼梯](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/70-爬楼梯.md)
 
+### 第四天
+
+- [53-最大子序和](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/53-最大子序和.md)
+
+- [322-零钱兑换](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/322-零钱兑换.md)
+

@@ -2,7 +2,7 @@
 
 ## [题目链接](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
-## 解析、
+## 解析
 题目要求在一个二维数组中查询一个target，这个二维数组是有序的，可以使用二分查找
 ```
 [

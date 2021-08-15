@@ -30,7 +30,7 @@
 
 - [20-有效的括号](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/20-有效的括号.md)
 
-- [322-零钱兑换](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/322-零钱兑换.md)
+- [496-下一个更大元素I](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/322-零钱兑换.md)
 
 - [416-分割等和子集](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/416-分割等和子集.md)
 

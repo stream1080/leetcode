@@ -32,6 +32,6 @@
 
 - [496-下一个更大元素I](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/322-零钱兑换.md)
 
-- [416-分割等和子集](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/416-分割等和子集.md)
+- [456-132模式](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/416-分割等和子集.md)
 
 

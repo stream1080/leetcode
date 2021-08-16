@@ -17,3 +17,6 @@
 - [739-每日温度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/739-每日温度.md)
 
 - [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/42-接雨水.md)
+
+- [78-子集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/78-子集.md)
+

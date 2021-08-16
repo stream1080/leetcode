@@ -42,7 +42,7 @@
 
 - [剑指Offer-32-从上到下打印二叉树II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-32-从上到下打印二叉树II.md)
 
-- [剑指Offer-50-第一个只出现一次的字符](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-53-0～n-1中缺失的数字.md)
+- [剑指Offer-32-从上到下打印二叉树III](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-32-从上到下打印二叉树III.md)
 
 
 

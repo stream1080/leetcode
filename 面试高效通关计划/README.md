@@ -34,4 +34,13 @@
 
 - [456-132模式](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/456-132模式.md)
 
+### 第六天
+
+- [119-杨辉三角II](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/119-杨辉三角II.md)
+
+- [279-完全平方数](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/279-完全平方数.md)
+
+- [456-132模式](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/456-132模式.md)
+
+
 

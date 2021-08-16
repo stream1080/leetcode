@@ -10,8 +10,10 @@
 
 - [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/986-区间列表的交集.md)
 
-
 - [剑指Offer-56-数组中数字出现的次数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-56-数组中数字出现的次数II.md)
 
 - [03-无重复字符的最长子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/03-无重复字符的最长子串.md)
 
+- [739-每日温度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/739-每日温度.md)
+
+- [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/42-接雨水.md)

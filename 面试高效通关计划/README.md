@@ -40,7 +40,7 @@
 
 - [279-完全平方数](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/279-完全平方数.md)
 
-- [456-132模式](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/456-132模式.md)
+- [483-最小好进制](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/483-最小好进制.md)
 
 
 

@@ -48,7 +48,7 @@
 
 - [230-二叉搜索树中第K小的元素](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/230-二叉搜索树中第K小的元素.md)
 
-- [483-最小好进制](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/483-最小好进制.md)
+- [968-监控二叉树](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/968-监控二叉树.md)
 
 
 

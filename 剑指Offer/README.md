@@ -48,7 +48,7 @@
 
 - [剑指Offer-26-树的子结构](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-26-树的子结构.md)
 
-- [剑指Offer-32-从上到下打印二叉树II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-32-从上到下打印二叉树II.md)
+- [剑指Offer-28-对称的二叉树](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-28-对称的二叉树.md)
 
 - [剑指Offer-32-从上到下打印二叉树III](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-32-从上到下打印二叉树III.md)
 

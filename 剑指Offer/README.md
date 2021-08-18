@@ -56,7 +56,7 @@
 
 - [剑指Offer-10-斐波那契数列I](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-10-斐波那契数列I.md)
 
-- [剑指Offer-27-二叉树的镜像](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-27-二叉树的镜像.md)
+- [剑指Offer-10-青蛙跳台阶问题II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-10-青蛙跳台阶问题II.md)
 
 - [剑指Offer-28-对称的二叉树](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-28-对称的二叉树.md)
 

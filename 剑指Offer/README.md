@@ -58,7 +58,7 @@
 
 - [剑指Offer-10-青蛙跳台阶问题II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-10-青蛙跳台阶问题II.md)
 
-- [剑指Offer-28-对称的二叉树](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-28-对称的二叉树.md)
+- [剑指Offer-63-股票的最大利润](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-63-股票的最大利润.md)
 
 
 

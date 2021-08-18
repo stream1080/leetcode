@@ -50,6 +50,14 @@
 
 - [968-监控二叉树](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/968-监控二叉树.md)
 
+### 第八天
+
+- [720-词典中最长的单词](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/720-词典中最长的单词.md)
+
+- [230-二叉搜索树中第K小的元素](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/230-二叉搜索树中第K小的元素.md)
+
+- [968-监控二叉树](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/968-监控二叉树.md)
+
 
 
 

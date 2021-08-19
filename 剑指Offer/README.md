@@ -60,7 +60,13 @@
 
 - [剑指Offer-63-股票的最大利润](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-63-股票的最大利润.md)
 
+### 第九天
 
+- [剑指Offer-42-连续子数组的最大和](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-42-连续子数组的最大和.md)
+
+- [剑指Offer-10-青蛙跳台阶问题II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-10-青蛙跳台阶问题II.md)
+
+- [剑指Offer-63-股票的最大利润](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-63-股票的最大利润.md)
 
 
 

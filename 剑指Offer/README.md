@@ -66,6 +66,12 @@
 
 - [剑指Offer-47-礼物的最大价值](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-47-礼物的最大价值.md)
 
+### 第十天
+
+- [剑指Offer-46-把数字翻译成字符串](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-46-把数字翻译成字符串.md)
+
+- [剑指Offer-47-礼物的最大价值](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-47-礼物的最大价值.md)
+
 
 
 

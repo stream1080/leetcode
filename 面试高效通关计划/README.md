@@ -66,6 +66,13 @@
 
 - [1392-最长快乐前缀](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/1392-最长快乐前缀.md)
 
+### 第十天
+
+- [1042-不邻接植花](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/1042-不邻接植花.md)
+
+- [787-K站中转内最便宜的航班](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/787-K站中转内最便宜的航班.md)
+
+
 
 
 

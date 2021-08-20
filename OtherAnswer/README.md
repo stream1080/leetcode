@@ -4,9 +4,7 @@
 
 - [413-等差数列划分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/413-等差数列划分.md)
 
-
 - [713-乘积小于K的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/713-乘积小于K的子数组.md)
-
 
 - [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/986-区间列表的交集.md)
 
@@ -19,4 +17,6 @@
 - [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/42-接雨水.md)
 
 - [78-子集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/78-子集.md)
+
+- [541-反转字符串II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/541-反转字符串II.md)
 

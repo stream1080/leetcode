@@ -35,6 +35,12 @@
 
 - [503-下一个更大元素II](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/503-下一个更大元素II.md)
 
+- [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/42-接雨水.md)
+
+- [84-柱状图中最大的矩形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/84-柱状图中最大的矩形.md)
+
+
+
 
 ## 二叉树
 

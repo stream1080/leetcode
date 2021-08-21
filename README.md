@@ -31,6 +31,8 @@
 
 - [739-每日温度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/739-每日温度.md)
 
+- [496-下一个更大元素I](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/496-下一个更大元素I.md)
+
 
 ## 二叉树
 

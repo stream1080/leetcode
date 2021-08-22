@@ -1,9 +1,7 @@
 # leetcode 刷题笔记
 
-
 ## [剑指Offer](https://github.com/stream1080/leetcode/blob/main/剑指Offer)
 - leetcode上面的剑指Offer刷题计划
-
 
 ## [面试高效通关计划](https://github.com/stream1080/leetcode/blob/main/面试高效通关计划)
 - leetcode上面面试高效通关计划
@@ -50,6 +48,14 @@
 
 
 ## 链表
+
+- [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)
+
+- [剑指Offer-24-反转链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-24-反转链表.md)
+
+- [剑指Offer-35-复杂链表的复制](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-35-复杂链表的复制.md)
+
+## 贪心算法
 
 
 ## 其他

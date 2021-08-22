@@ -40,21 +40,24 @@
 - [84-柱状图中最大的矩形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/84-柱状图中最大的矩形.md)
 
 
-
-
 ## 二叉树
 
 - [104-二叉树的最大深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/104-二叉树的最大深度.md)
 
+## 动态规划
+ 
+- [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/746-使用最小花费爬楼梯].md)
+
 
 ## 链表
 
+
 ## 其他
 
-- [005-最长回文子串](https://github.com/stream1080/leetcode/blob/main/其他/413-等差数列划分.md)
+- [005-最长回文子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/413-等差数列划分.md)
 
-- [413-等差数列划分](https://github.com/stream1080/leetcode/blob/main/其他/413-等差数列划分.md)
+- [413-等差数列划分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/413-等差数列划分.md)
 
-- [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/其他/986-区间列表的交集.md)
+- [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/986-区间列表的交集.md)
 
 

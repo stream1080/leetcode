@@ -82,5 +82,5 @@
 
 - [剑指Offer-25-合并两个排序的链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-25-合并两个排序的链表.md)
 
-- [剑指Offer-22-链表中倒数第k个节点](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-22-链表中倒数第k个节点.md)
+- [剑指Offer-52-两个链表的第一个公共节点](https://github.com/stream1080/leetcode/blob/main/剑指Offer/剑指Offer-52-两个链表的第一个公共节点.md)
 

@@ -20,3 +20,5 @@
 
 - [541-反转字符串II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/541-反转字符串II.md)
 
+- [789-逃脱阻碍者](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/789-逃脱阻碍者.md)
+

@@ -13,18 +13,16 @@
 ## 参考代码
 ```Java
 class Solution {
-    public char firstUniqChar(String s) {
-        Map<Character,Boolean> map = new HashMap<>();
-        //出现两次以上的字符存储为false
-        for(char ch:s.toCharArray()){
-            map.put(ch,!map.containsKey(ch));
+    public int maxProfit(int[] prices) {
+        if(prices.length==0) return 0;
+        int min = prices[0],max = 0;
+        for(int price:prices){
+            // 保存历史最低价
+            min = Math.min(min,price);
+            // 更新最大利润
+            max = Math.max(max,price-min);
         }
-        //遍历map，返回true的字符
-        for(char ch:s.toCharArray()){
-            if(map.get(ch))
-                return ch;
-        }
-        return ' ';
+        return max;
     }
 }
 ```

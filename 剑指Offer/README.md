@@ -88,5 +88,7 @@
 
 - [剑指Offer-21-调整数组顺序使奇数位于偶数前面](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-21-调整数组顺序使奇数位于偶数前面.md)
 
-- [剑指Offer-52-两个链表的第一个公共节点](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-52-两个链表的第一个公共节点.md)
+- [剑指Offer-57-和为s的两个数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-57-和为s的两个数字.md)
+
+- [剑指Offer-57-和为s的两个数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-57-和为s的两个数字.md)
 

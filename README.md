@@ -50,6 +50,8 @@
 
 - [104-二叉树的最大深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/104-二叉树的最大深度.md)
 
+- [226-翻转二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/226-翻转二叉树.md)
+
 ## 动态规划
  
 - [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/746-使用最小花费爬楼梯].md)

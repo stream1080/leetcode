@@ -90,5 +90,5 @@
 
 - [剑指Offer-57-和为s的两个数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-57-和为s的两个数字.md)
 
-- [剑指Offer-57-和为s的两个数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-57-和为s的两个数字.md)
+- [剑指Offer-58-翻转单词顺序I](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-58-翻转单词顺序I.md)
 

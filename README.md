@@ -52,11 +52,6 @@
 
 - [226-翻转二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/226-翻转二叉树.md)
 
-## 动态规划
- 
-- [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/746-使用最小花费爬楼梯].md)
-
-
 ## 链表
 
 - [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)
@@ -64,6 +59,12 @@
 - [剑指Offer-24-反转链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-24-反转链表.md)
 
 - [剑指Offer-35-复杂链表的复制](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-35-复杂链表的复制.md)
+
+## 动态规划
+ 
+- [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/746-使用最小花费爬楼梯.md)
+
+- [62-不同路径](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/62-不同路径.md)
 
 ## 贪心算法
 

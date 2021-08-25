@@ -98,3 +98,9 @@
 
 - [剑指Offer-13-机器人的运动范围](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-13-机器人的运动范围.md)
 
+### 第十五天
+
+- [剑指Offer-34-二叉树中和为某一值的路径](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-34-二叉树中和为某一值的路径.md)
+
+- [剑指Offer-13-机器人的运动范围](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-13-机器人的运动范围.md)
+

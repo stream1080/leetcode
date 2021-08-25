@@ -104,3 +104,5 @@
 
 - [剑指Offer-13-机器人的运动范围](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-13-机器人的运动范围.md)
 
+- [剑指Offer-54-二叉搜索树的第k大节点](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-54-二叉搜索树的第k大节点.md)
+

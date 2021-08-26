@@ -108,7 +108,7 @@
 
 ### 第十六天
 
-- [剑指Offer-34-二叉树中和为某一值的路径](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-34-二叉树中和为某一值的路径.md)
+- [剑指Offer-45-把数组排成最小的数](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-45-把数组排成最小的数.md)
 
 - [剑指Offer-61-扑克牌中的顺子](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-61-扑克牌中的顺子.md)
 

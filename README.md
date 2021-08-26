@@ -16,6 +16,8 @@
 
 - [剑指Offer-56-数组中数字出现的次数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-56-数组中数字出现的次数II.md)
 
+- [881-救生艇](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/881-救生艇.md)
+
 
 ## 字符串
 

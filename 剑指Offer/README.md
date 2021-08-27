@@ -116,7 +116,7 @@
 
 - [剑指Offer-40-最小的k个数](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-40-最小的k个数.md)
 
-- [剑指Offer-61-扑克牌中的顺子](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-61-扑克牌中的顺子.md)
+- [剑指Offer-41-数据流中的中位数](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-41-数据流中的中位数.md)
 
 
 

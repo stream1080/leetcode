@@ -91,6 +91,16 @@
 
 - [40-组合总和II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/40-组合总和II.md)
 
+#### 分割问题
+
+
+#### 子集问题
+
+- [78-子集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/78-子集.md)
+
+- [90-子集II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/90-子集II.md)
+
+
 
 
 

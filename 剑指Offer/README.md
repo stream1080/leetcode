@@ -130,5 +130,7 @@
 
 - [剑指Offer-68-二叉搜索树的最近公共祖先I](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/236-二叉树的最近公共祖先.md)
 
+- [剑指Offer-68-二叉搜索树的最近公共祖先II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/236-二叉树的最近公共祖先.md)
+
 
 

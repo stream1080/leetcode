@@ -78,7 +78,10 @@
 
 - [343-整数拆分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/343-整数拆分.md)
 
-## 贪心算法
+## 回溯算法
+#### 组合问题
+
+- [77-组合](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/77-组合.md)
 
 
 ## 其他

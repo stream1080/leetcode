@@ -124,6 +124,12 @@
 
 - [剑指Offer-55-平衡二叉树II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-55-平衡二叉树II.md)
 
+### 第十九天
+
+- [剑指Offer-64-求1+2+…+n](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-64-求1+2+…+n.md)
+
+- [剑指Offer-55-平衡二叉树II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-55-平衡二叉树II.md)
+
 
 
 

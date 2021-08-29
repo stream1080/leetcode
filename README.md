@@ -87,6 +87,8 @@
 
 - [17-电话号码的字母组合](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/17-电话号码的字母组合.md)
 
+- [39-组合总和I](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/39-组合总和I.md)
+
 
 ## 其他
 

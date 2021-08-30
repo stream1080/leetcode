@@ -138,7 +138,7 @@
 
 - [剑指Offer-16-数值的整数次方](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-16-数值的整数次方.md)
 
-- [剑指Offer-68-二叉搜索树的最近公共祖先II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/236-二叉树的最近公共祖先.md)
+- [剑指Offer-33-二叉搜索树的后序遍历序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-33-二叉搜索树的后序遍历序列.md)
 
 
 

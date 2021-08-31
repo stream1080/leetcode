@@ -144,9 +144,9 @@
 
 - [剑指Offer-15-二进制中1的个数](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-15-二进制中1的个数.md)
 
-- [剑指Offer-16-数值的整数次方](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-16-数值的整数次方.md)
+- [剑指Offer-65-不用加减乘除做加法](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-65-不用加减乘除做加法.md)
 
-- [剑指Offer-33-二叉搜索树的后序遍历序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-33-二叉搜索树的后序遍历序列.md)
+
 
 
 

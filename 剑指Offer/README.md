@@ -156,7 +156,7 @@
 
 - [剑指Offer-39-数组中出现次数超过一半的数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-39-数组中出现次数超过一半的数字.md)
 
-- [剑指Offer-56-数组中数字出现的次数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-56-数组中数字出现的次数II.md)
+- [剑指Offer-66-构建乘积数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-66-构建乘积数组.md)
 
 
 

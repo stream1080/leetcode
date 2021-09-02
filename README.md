@@ -106,6 +106,11 @@
 
 - [491-递增子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/491-递增子序列.md)
 
+#### 排列问题
+
+- [46-全排列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/46-全排列.md)
+
+- [90-子集II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/90-子集II.md)
 
 
 

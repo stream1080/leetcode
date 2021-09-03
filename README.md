@@ -29,6 +29,14 @@
 
 - [541-反转字符串II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/541-反转字符串II.md)
 
+## 链表
+
+- [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)
+
+- [剑指Offer-24-反转链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-24-反转链表.md)
+
+- [剑指Offer-35-复杂链表的复制](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-35-复杂链表的复制.md)
+
 ## 单调栈
 
 - [739-每日温度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/739-每日温度.md)
@@ -60,13 +68,7 @@
 
 - [236-二叉树的最近公共祖先](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/236-二叉树的最近公共祖先.md)
 
-## 链表
 
-- [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)
-
-- [剑指Offer-24-反转链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-24-反转链表.md)
-
-- [剑指Offer-35-复杂链表的复制](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-35-复杂链表的复制.md)
 
 ## 动态规划
  
@@ -112,7 +114,9 @@
 
 - [47-全排列II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/47-全排列II.md)
 
+## 贪心算法
 
+- [455-分发饼干](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/455-分发饼干.md)
 
 
 ## 其他

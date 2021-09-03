@@ -158,6 +158,12 @@
 
 - [剑指Offer-66-构建乘积数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-66-构建乘积数组.md)
 
+### 第二十四天
+
+- [剑指Offer-14-剪绳子I](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-14-剪绳子I.md)
+
+- [剑指Offer-66-构建乘积数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-66-构建乘积数组.md)
+
 
 
 

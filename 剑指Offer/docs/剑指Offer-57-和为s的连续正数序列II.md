@@ -6,7 +6,8 @@
 
 方法一：双指针
 - 定义双指针，从1开始，到target结束
-- 如果sum>target,sum = sum-l,并且l++
+- 如果sum>target,sum = sum-l,并且l右移
+- 当窗口中数字和小于target时，r右移
 - 如果sum = target,则加入结果集
 
 

@@ -170,9 +170,9 @@
 
 - [剑指Offer-29-顺时针打印矩阵](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-29-顺时针打印矩阵.md)
 
-- [剑指Offer-57-和为s的连续正数序列II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-57-和为s的连续正数序列II.md)
+- [剑指Offer-31-栈的压入、弹出序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-31-栈的压入、弹出序列.md)
 
-- [剑指Offer-62-圆圈中最后剩下的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-62-圆圈中最后剩下的数字.md)
+
 
 
 

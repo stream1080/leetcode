@@ -71,7 +71,8 @@
 
 
 ## 动态规划
- 
+
+#### 基础
 - [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/746-使用最小花费爬楼梯.md)
 
 - [62-不同路径](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/62-不同路径.md)
@@ -79,6 +80,8 @@
 - [63-不同路径II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/63-不同路径II.md)
 
 - [343-整数拆分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/343-整数拆分.md)
+
+#### 背包问题
 
 ## 回溯算法
 #### 组合问题

@@ -118,6 +118,8 @@
 
 - [455-分发饼干](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/455-分发饼干.md)
 
+- [376-摆动序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/376-摆动序列.md)
+
 
 ## 其他
 

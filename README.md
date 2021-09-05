@@ -85,6 +85,8 @@
 
 - [416-分割等和子集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/416-分割等和子集.md)
 
+- [1049-最后一块石头的重量II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1049-最后一块石头的重量II.md)
+
 ## 回溯算法
 #### 组合问题
 

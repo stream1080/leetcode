@@ -83,6 +83,8 @@
 
 #### 背包问题
 
+- [416-分割等和子集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/416-分割等和子集.md)
+
 ## 回溯算法
 #### 组合问题
 

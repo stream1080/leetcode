@@ -172,6 +172,12 @@
 
 - [剑指Offer-31-栈的压入、弹出序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-31-栈的压入、弹出序列.md)
 
+### 第二十六天
+
+- [剑指Offer-20-表示数值的字符串](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-20-表示数值的字符串.md)
+
+- [剑指Offer-31-栈的压入、弹出序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-31-栈的压入、弹出序列.md)
+
 
 
 

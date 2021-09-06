@@ -182,7 +182,7 @@
 
 - [剑指Offer-59-滑动窗口的最大值I](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-59-滑动窗口的最大值I.md)
 
-- [剑指Offer-67-把字符串转换成整数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-67-把字符串转换成整数.md)
+- [剑指Offer-59-队列的最大值II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-59-队列的最大值II.md)
 
 
 

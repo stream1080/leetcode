@@ -29,6 +29,9 @@
 
 - [541-反转字符串II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/541-反转字符串II.md)
 
+- [1221-分割平衡字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1221-分割平衡字符串.md)
+
+
 ## 链表
 
 - [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)

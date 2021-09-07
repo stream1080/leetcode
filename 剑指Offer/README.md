@@ -189,7 +189,7 @@
 
 - [剑指Offer-37-序列化二叉树](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-37-序列化二叉树.md)
 
-- [剑指Offer-59-队列的最大值II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-59-队列的最大值II.md)
+- [剑指Offer-38-字符串的排列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-38-字符串的排列.md)
 
 
 

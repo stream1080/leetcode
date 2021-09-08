@@ -8,7 +8,6 @@
 
 ## 参考代码
 ```Java
-
 class Solution {
     public boolean isMatch(String s, String p) {
         int m = s.length() + 1, n = p.length() + 1;

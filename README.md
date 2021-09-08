@@ -90,6 +90,8 @@
 
 - [1049-最后一块石头的重量II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1049-最后一块石头的重量II.md)
 
+- [494-目标和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/494-目标和.md)
+
 ## 回溯算法
 #### 组合问题
 

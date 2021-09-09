@@ -99,6 +99,8 @@
 
 - [377-组合总IV](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/377-组合总IV.md)
 
+- [70-爬楼梯-完全背包](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/70-爬楼梯.md)
+
 
 ## 回溯算法
 #### 组合问题

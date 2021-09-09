@@ -75,7 +75,7 @@
 
 ## 动态规划
 
-#### 基础
+### 基础
 - [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/746-使用最小花费爬楼梯.md)
 
 - [62-不同路径](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/62-不同路径.md)
@@ -84,13 +84,16 @@
 
 - [343-整数拆分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/343-整数拆分.md)
 
-#### 背包问题
+### 背包问题
+#### 01背包
 
 - [416-分割等和子集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/416-分割等和子集.md)
 
 - [1049-最后一块石头的重量II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1049-最后一块石头的重量II.md)
 
 - [494-目标和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/494-目标和.md)
+
+#### 完全背包
 
 ## 回溯算法
 #### 组合问题

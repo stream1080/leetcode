@@ -204,9 +204,8 @@
 
 - [剑指Offer-17-打印从1到最大的n位数](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-17-打印从1到最大的n位数.md)
 
-- [剑指Offer-49-丑数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-49-丑数.md)
+- [剑指Offer-51-数组中的逆序对](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-51-数组中的逆序对.md)
 
-- [剑指Offer-60-n个骰子的点数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-60-n个骰子的点数.md)
 
 
 

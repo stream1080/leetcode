@@ -206,6 +206,12 @@
 
 - [剑指Offer-51-数组中的逆序对](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-51-数组中的逆序对.md)
 
+### 第三十一天
+
+- [剑指Offer-14-剪绳子II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-14-剪绳子II.md)
+
+- [剑指Offer-51-数组中的逆序对](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-51-数组中的逆序对.md)
+
 
 
 

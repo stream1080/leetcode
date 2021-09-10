@@ -210,6 +210,8 @@
 
 - [剑指Offer-14-剪绳子II](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-14-剪绳子II.md)
 
+- [剑指Offer-43-1～n整数中1出现的次数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-43-1～n整数中1出现的次数.md)
+
 - [剑指Offer-51-数组中的逆序对](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-51-数组中的逆序对.md)
 
 

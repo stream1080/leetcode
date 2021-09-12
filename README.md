@@ -121,7 +121,9 @@
 
 - [122-买卖股票的最佳时机II](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/122-买卖股票的最佳时机II.md)
 
-- [123-买卖股票的最佳时机III](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/337-打家劫舍III.md)
+- [123-买卖股票的最佳时机III](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/123-买卖股票的最佳时机III.md)
+
+- [188-买卖股票的最佳时机IV](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/188-买卖股票的最佳时机IV.md)
 
 ## 回溯算法
 #### 组合问题

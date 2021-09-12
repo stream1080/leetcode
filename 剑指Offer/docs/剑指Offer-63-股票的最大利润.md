@@ -9,6 +9,13 @@
 - 同时根据历史最低价更新最大利润
 - 返回结果
 
+方法二：动态规划
+- dp[i][0]表示第i天持有股票所得的最多现金
+- dp[i][1]表示第i天不持有股票所得的最多现金
+- 递推 第i天买入股票，所得现金就是买入股票后的现金-prices[i];
+- 与昨天持有股票所得的现金dp[i-1][0],取最大值
+- 若第i天卖出股票，所获现金就是，股票价格prices[i]+dp[i-1][1]
+- 与昨天对比，取最大值
 
 ## 参考代码
 ```Java
@@ -23,6 +30,20 @@ class Solution {
             max = Math.max(max,price-min);
         }
         return max;
+    }
+}
+
+方法二：动态规划
+class Solution {
+    public int maxProfit(int[] prices) {
+        int[][] dp = new int[prices.length][2];
+        dp[0][0] -= prices[0]; 
+        dp[0][1] = 0; 
+        for(int i=1;i<prices.length;i++){
+            dp[i][0] = Math.max(dp[i-1][0],-prices[i]);
+            dp[i][1] = Math.max(dp[i-1][1],prices[i] + dp[i-1][0]);
+        }
+        return dp[prices.length-1][1];
     }
 }
 ```

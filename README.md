@@ -129,6 +129,8 @@
 
 - [300-最长递增子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/300-最长递增子序列.md)
 
+- [674-最长连续递增序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/674-最长连续递增序列.md)
+
 ## 回溯算法
 #### 组合问题
 

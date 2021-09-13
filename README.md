@@ -176,4 +176,6 @@
 
 - [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/986-区间列表的交集.md)
 
+- [447-回旋镖的数量](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/447-回旋镖的数量.md)
+
 

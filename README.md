@@ -125,6 +125,10 @@
 
 - [188-买卖股票的最佳时机IV](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/188-买卖股票的最佳时机IV.md)
 
+#### 序列问题
+
+- [300-最长递增子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/300-最长递增子序列.md)
+
 ## 回溯算法
 #### 组合问题
 

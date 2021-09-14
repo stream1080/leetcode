@@ -149,6 +149,8 @@
 
 - [647-回文子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/647-回文子串.md)
 
+- [516-最长回文子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/516-最长回文子序列.md)
+
 
 ## 回溯算法
 #### 组合问题

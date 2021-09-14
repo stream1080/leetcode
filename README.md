@@ -137,6 +137,8 @@
 
 - [53-最大子序和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/153-最大子序和.md)
 
+- [392-判断子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/392-判断子序列.md)
+
 
 ## 回溯算法
 #### 组合问题

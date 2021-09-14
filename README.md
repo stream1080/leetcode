@@ -143,6 +143,8 @@
 
 - [115-不同的子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/115-不同的子序列.md)
 
+- [583-两个字符串的删除操作](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/583-两个字符串的删除操作.md)
+
 
 ## 回溯算法
 #### 组合问题

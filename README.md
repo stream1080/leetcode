@@ -139,6 +139,8 @@
 
 - [392-判断子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/392-判断子序列.md)
 
+- [115-不同的子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/115-不同的子序列.md)
+
 
 ## 回溯算法
 #### 组合问题

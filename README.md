@@ -200,6 +200,8 @@
 
 - [1005-K次取反后最大化的数组和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1005-K次取反后最大化的数组和.md)
 
+- [134-加油站](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/134-加油站.md)
+
 
 ## 其他
 

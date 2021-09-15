@@ -194,6 +194,8 @@
 
 - [53-最大子序和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/53-最大子序和.md)
 
+- [55-跳跃游戏](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/55-跳跃游戏.md)
+
 
 ## 其他
 

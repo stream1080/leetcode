@@ -196,6 +196,8 @@
 
 - [55-跳跃游戏](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/55-跳跃游戏.md)
 
+- [45-跳跃游戏II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/45-跳跃游戏II.md)
+
 
 ## 其他
 

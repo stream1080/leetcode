@@ -22,6 +22,8 @@
 
 - [912-排序数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/912-排序数组.md)
 
+- [36-有效的数独](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/36-有效的数独.md)
+
 
 ## 字符串
 

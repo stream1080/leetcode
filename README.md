@@ -20,6 +20,8 @@
 
 - [1588-所有奇数长度子数组的和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1588-所有奇数长度子数组的和.md)
 
+- [912-排序数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/912-排序数组.md)
+
 
 ## 字符串
 

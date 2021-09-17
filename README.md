@@ -38,6 +38,10 @@
 
 ## 链表
 
+- [24-两两交换链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/24-两两交换链表中的节点.md)
+
+- [82-删除排序链表中的重复元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/82-删除排序链表中的重复元素II.md)
+
 - [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)
 
 - [剑指Offer-24-反转链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-24-反转链表.md)

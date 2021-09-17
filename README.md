@@ -38,7 +38,7 @@
 
 ## 链表
 
-- [24-两两交换链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/24-两两交换链表中的节点.md)
+- [83-删除排序链表中的重复元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/83-删除排序链表中的重复元素.md)
 
 - [82-删除排序链表中的重复元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/82-删除排序链表中的重复元素II.md)
 

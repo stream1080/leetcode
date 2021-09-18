@@ -143,7 +143,7 @@
 
 - [309-最佳买卖股票时机含冷冻期](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/309-最佳买卖股票时机含冷冻期.md)
 
-- [714-买卖股票的最佳时机含手续费](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/714-买卖股票的最佳时机含手续费.md)
+- [714-买卖股票的最佳时机含手续费](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/714-买卖股票的最佳时机含手续费.md)
 
 #### 序列问题
 

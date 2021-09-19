@@ -226,6 +226,8 @@
 
 - [860-柠檬水找零](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/860-柠檬水找零.md)
 
+- [406-根据身高重建队列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/406-根据身高重建队列.md)
+
 
 
 ## 其他

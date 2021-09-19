@@ -235,4 +235,6 @@
 
 - [447-回旋镖的数量](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/447-回旋镖的数量.md)
 
+- [650-只有两个键的键盘](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/650-只有两个键的键盘.md)
+
 

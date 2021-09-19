@@ -224,6 +224,9 @@
 
 - [135-分发糖果](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/135-分发糖果.md)
 
+- [860-柠檬水找零](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/860-柠檬水找零.md)
+
+
 
 ## 其他
 

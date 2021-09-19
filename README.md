@@ -228,6 +228,8 @@
 
 - [406-根据身高重建队列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/406-根据身高重建队列.md)
 
+- [452-用最少数量的箭引爆气球](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/452-用最少数量的箭引爆气球.md)
+
 
 
 ## 其他

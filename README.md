@@ -244,4 +244,6 @@
 
 - [650-只有两个键的键盘](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/650-只有两个键的键盘.md)
 
+- [146-LRU缓存机制](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/146-LRU缓存机制.md)
+
 

@@ -149,6 +149,8 @@
 
 - [300-最长递增子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/300-最长递增子序列.md)
 
+- [673-最长递增子序列的个数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/673-最长递增子序列的个数.md)
+
 - [674-最长连续递增序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/674-最长连续递增序列.md)
 
 - [718-最长重复子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/718-最长重复子数组.md)

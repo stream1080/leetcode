@@ -244,6 +244,8 @@
 
 - [463-岛屿的周长](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/463-岛屿的周长.md)
 
+- [695-岛屿的最大面积](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/695-岛屿的最大面积.md)
+
 
 
 ## 其他

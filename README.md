@@ -243,6 +243,8 @@
 
 - [435-无重叠区间](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/435-无重叠区间.md)
 
+- [763-划分字母区间](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/763-划分字母区间.md)
+
 
 ## DFS/BFS
 

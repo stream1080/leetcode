@@ -270,4 +270,6 @@
 
 - [146-LRU缓存机制](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/146-LRU缓存机制.md)
 
+- [326-3的幂](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/326-3的幂.md)
+
 

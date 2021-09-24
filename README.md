@@ -248,6 +248,9 @@
 - [763-划分字母区间](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/763-划分字母区间.md)
 
 
+- [738-单调递增的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/738-单调递增的数字.md)
+
+
 ## DFS/BFS
 
 - [200-岛屿数量](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/200-岛屿数量.md)

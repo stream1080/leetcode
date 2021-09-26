@@ -92,6 +92,8 @@
 
 - [104-二叉树的最大深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/104-二叉树的最大深度.md)
 
+- [101-对称二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/101-对称二叉树.md)
+
 - [226-翻转二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/226-翻转二叉树.md)
 
 - [236-二叉树的最近公共祖先](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/236-二叉树的最近公共祖先.md)

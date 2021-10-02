@@ -127,6 +127,8 @@
 
 - [63-不同路径II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/63-不同路径II.md)
 
+- [64-最小路径和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/64-最小路径和.md)
+
 - [343-整数拆分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/343-整数拆分.md)
 
 ### 背包问题

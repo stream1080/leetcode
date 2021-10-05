@@ -308,4 +308,6 @@
 
 - [575-分糖果](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/575-分糖果.md)
 
+- [284-窥探迭代器](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/284-窥探迭代器.md)
+
 

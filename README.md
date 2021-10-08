@@ -32,6 +32,8 @@
 
 - [414-第三大的数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/414-第三大的数.md)
 
+- [560-和为K的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/560-和为K的子数组.md)
+
 
 ## 字符串
 

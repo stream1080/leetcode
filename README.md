@@ -53,6 +53,8 @@
 
 - [482-密钥格式化](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/482-密钥格式化.md)
 
+- [187-重复的DNA序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/187-重复的DNA序列.md)
+
 
 ## 链表
 

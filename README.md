@@ -55,6 +55,8 @@
 
 - [187-重复的DNA序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/187-重复的DNA序列.md)
 
+- [171-Excel表列序号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/171-Excel表列序号.md)
+
 
 ## 链表
 

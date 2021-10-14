@@ -49,6 +49,8 @@
 
 - [415-字符串相加](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/415-字符串相加.md)
 
+- [43-字符串相乘](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/43-字符串相乘.md)
+
 - [438-找到字符串中所有字母异位词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/438-找到字符串中所有字母异位词.md)
 
 - [482-密钥格式化](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/482-密钥格式化.md)

@@ -324,3 +324,5 @@
 
 - [441-排列硬币](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/441-排列硬币.md)
 
+- [476-数字的补数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/476-数字的补数.md)
+

@@ -97,6 +97,8 @@
 
 - [209-长度最小的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/209-长度最小的子数组.md)
 
+- [242-有效的字母异位词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/242-有效的字母异位词.md)
+
 
 ## 单调栈
 

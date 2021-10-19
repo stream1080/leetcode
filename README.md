@@ -298,6 +298,9 @@
 
 - [714-买卖股票的最佳时机含手续费](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/714-买卖股票的最佳时机含手续费.md)
 
+- [56-合并区间](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/56-合并区间.md)
+
+
 
 ## DFS/BFS
 

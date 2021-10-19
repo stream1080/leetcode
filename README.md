@@ -312,6 +312,8 @@
 
 - [146-LRU缓存机制](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/146-LRU缓存机制.md)
 
+- [211-添加与搜索单词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/211-添加与搜索单词.md)
+
 
 ## 其他
 

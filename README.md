@@ -342,3 +342,5 @@
 
 - [476-数字的补数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/476-数字的补数.md)
 
+- [66-加一](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/66-加一.md)
+

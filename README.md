@@ -38,6 +38,8 @@
 
 - [453-最小操作次数使数组元素相等](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/453-最小操作次数使数组元素相等.md)
 
+- [229-求众数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/229-求众数II.md)
+
 
 ## 字符串
 

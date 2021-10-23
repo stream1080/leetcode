@@ -346,3 +346,5 @@
 
 - [66-加一](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/66-加一.md)
 
+- [492-构造矩形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/492-构造矩形.md)
+

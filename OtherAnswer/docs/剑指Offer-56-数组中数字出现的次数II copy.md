@@ -12,6 +12,10 @@
 - 如果i*j == area,则返回结果
 
 方法二：数学
+- L * W = area，这也意味着area可以被W整除；
+- L >= M 则W*W < L * W,则只需要满足w被area整除，并且w<根号area
+- 定义w为根号area的整除，当w不能被area整除，则w--；循环 
+- 否则，返回结果area/w，w
 
 ## 参考代码
 ```Java
@@ -31,16 +35,12 @@ class Solution {
 }
 方法二：
 class Solution {
-    public int singleNumber(int[] nums) {
-        Map<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+    public int[] constructRectangle(int area) {
+        int w = (int)Math.sqrt(area);
+        while(area % w != 0){
+            w--;
         }
-        for(Integer i:map.keySet()){
-            if(map.get(i) == 1)
-                return i;
-        }
-        return -1;
+        return new int[]{area/w,w};
     }
 }
 ```

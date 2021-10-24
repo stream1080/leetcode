@@ -104,7 +104,7 @@
 - [242-有效的字母异位词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/242-有效的字母异位词.md)
 
 
-## 单调栈
+## 栈相关
 
 - [739-每日温度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/739-每日温度.md)
 

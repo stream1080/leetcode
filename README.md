@@ -116,6 +116,8 @@
 
 - [84-柱状图中最大的矩形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/84-柱状图中最大的矩形.md)
 
+- [32-最长有效括号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/32-最长有效括号.md)
+
 
 ## 二叉树
 

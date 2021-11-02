@@ -94,6 +94,8 @@
 
 - [430-扁平化多级双向链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/430-扁平化多级双向链表.md)
 
+- [237-删除链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/237-删除链表中的节点.md)
+
 ## 哈希表
 
 - [1436-旅行终点站](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1436-旅行终点站.md)

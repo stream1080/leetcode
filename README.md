@@ -356,3 +356,5 @@
 
 - [492-构造矩形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/492-构造矩形.md)
 
+- [367-有效的完全平方数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/367-有效的完全平方数.md)
+

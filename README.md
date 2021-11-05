@@ -40,6 +40,8 @@
 
 - [229-求众数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/229-求众数II.md)
 
+- [1218-最长定差子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1218-最长定差子序列.md)
+
 
 ## 字符串
 

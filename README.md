@@ -44,6 +44,9 @@
 
 - [268-丢失的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/268-丢失的数字.md)
 
+- [598-范围求和II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/268-丢失的数字.md)
+
+
 
 ## 字符串
 

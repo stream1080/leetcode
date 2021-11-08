@@ -76,6 +76,8 @@
 
 - [500-键盘行](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/500-键盘行.md)
 
+- [299-猜数字游戏](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/299-猜数字游戏.md)
+
 
 ## 链表
 

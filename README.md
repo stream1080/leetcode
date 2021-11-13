@@ -79,6 +79,8 @@
 
 - [299-猜数字游戏](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/299-猜数字游戏.md)
 
+- [520-检测大写字母](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/520-检测大写字母.md)
+
 
 ## 链表
 

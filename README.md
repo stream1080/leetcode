@@ -121,6 +121,8 @@
 
 - [242-有效的字母异位词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/242-有效的字母异位词.md)
 
+- [594-最长和谐子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/594-最长和谐子序列.md)
+
 
 ## 栈相关
 

@@ -171,6 +171,8 @@
 
 - [437-路径总和III](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/437-路径总和III.md)
 
+- [700-二叉搜索树中的搜索](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/700-二叉搜索树中的搜索.md)
+
 ## 动态规划
 
 ### 基础

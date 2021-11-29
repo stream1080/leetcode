@@ -48,6 +48,8 @@
 
 - [495-提莫攻击](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/495-提莫攻击.md)
 
+- [786-第K个最小的素数分数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/786-第K个最小的素数分数.md)
+
 
 ## 字符串
 

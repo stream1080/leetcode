@@ -8,9 +8,9 @@
 
 ## 数组
 
-- [413-等差数列划分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/413-等差数列划分.md)
+- [413-等差数列划分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/413-等差数列划分.md)
 
-- [713-乘积小于K的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/713-乘积小于K的子数组.md)
+- [713-乘积小于K的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/713-乘积小于K的子数组.md)
 
 - [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/986-区间列表的交集.md)
 

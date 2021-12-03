@@ -12,9 +12,9 @@
 
 - [713-乘积小于K的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/713-乘积小于K的子数组.md)
 
-- [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/986-区间列表的交集.md)
+- [986-区间列表的交集](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/986-区间列表的交集.md)
 
-- [剑指Offer-56-数组中数字出现的次数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/剑指Offer-56-数组中数字出现的次数II.md)
+- [剑指Offer-56-数组中数字出现的次数II](https://github.com/stream1080/leetcode/blob/docs/main/OtherAnswer/剑指Offer-56-数组中数字出现的次数II.md)
 
 - [881-救生艇](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/881-救生艇.md)
 

@@ -24,7 +24,7 @@
 
 - [36-有效的数独](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/36-有效的数独.md)
 
-- [540-有序数组中的单一元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/540-有序数组中的单一元素.md)
+- [540-有序数组中的单一元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/540-有序数组中的单一元素.md)
 
 - [75-颜色分类](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/75-颜色分类.md)
 

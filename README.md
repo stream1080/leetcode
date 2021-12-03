@@ -28,7 +28,7 @@
 
 - [75-颜色分类](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/75-颜色分类.md)
 
-- [221-最大正方形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/221-最大正方形.md)
+- [221-最大正方形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/221-最大正方形.md)
 
 - [414-第三大的数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/414-第三大的数.md)
 

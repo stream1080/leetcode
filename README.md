@@ -34,7 +34,7 @@
 
 - [560-和为K的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/560-和为K的子数组.md)
 
-- [54-螺旋矩阵](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/54-螺旋矩阵.md)
+- [54-螺旋矩阵](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/54-螺旋矩阵.md)
 
 - [453-最小操作次数使数组元素相等](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/453-最小操作次数使数组元素相等.md)
 

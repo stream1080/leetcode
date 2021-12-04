@@ -40,7 +40,7 @@
 
 - [229-求众数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/229-求众数II.md)
 
-- [1218-最长定差子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1218-最长定差子序列.md)
+- [1218-最长定差子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1218-最长定差子序列.md)
 
 - [268-丢失的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/268-丢失的数字.md)
 

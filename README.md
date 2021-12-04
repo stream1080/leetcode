@@ -42,7 +42,7 @@
 
 - [1218-最长定差子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1218-最长定差子序列.md)
 
-- [268-丢失的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/268-丢失的数字.md)
+- [268-丢失的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/268-丢失的数字.md)
 
 - [598-范围求和II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/268-丢失的数字.md)
 

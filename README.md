@@ -38,7 +38,7 @@
 
 - [453-最小操作次数使数组元素相等](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/453-最小操作次数使数组元素相等.md)
 
-- [229-求众数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/229-求众数II.md)
+- [229-求众数II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/229-求众数II.md)
 
 - [1218-最长定差子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1218-最长定差子序列.md)
 

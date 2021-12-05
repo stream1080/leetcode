@@ -63,7 +63,7 @@
 
 - [1221-分割平衡字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1221-分割平衡字符串.md)
 
-- [415-字符串相加](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/415-字符串相加.md)
+- [415-字符串相加](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/415-字符串相加.md)
 
 - [43-字符串相乘](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/43-字符串相乘.md)
 

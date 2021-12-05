@@ -57,7 +57,7 @@
 
 - [005-最长回文子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/005-最长回文子串.md)
 
-- [14-最长公共前缀](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/14-最长公共前缀.md)
+- [14-最长公共前缀](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/14-最长公共前缀.md)
 
 - [541-反转字符串II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/541-反转字符串II.md)
 

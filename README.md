@@ -75,7 +75,7 @@
 
 - [171-Excel表列序号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/171-Excel表列序号.md)
 
-- [168-Excel表列名称](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/168-Excel表列名称.md)
+- [168-Excel表列名称](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/168-Excel表列名称.md)
 
 - [500-键盘行](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/500-键盘行.md)
 

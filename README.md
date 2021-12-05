@@ -55,7 +55,7 @@
 
 - [003-无重复字符的最长子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/03-无重复字符的最长子串.md)
 
-- [005-最长回文子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/005-最长回文子串.md)
+- [005-最长回文子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/005-最长回文子串.md)
 
 - [14-最长公共前缀](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/14-最长公共前缀.md)
 

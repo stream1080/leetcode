@@ -94,7 +94,7 @@
 
 - [83-删除排序链表中的重复元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/83-删除排序链表中的重复元素.md)
 
-- [82-删除排序链表中的重复元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/82-删除排序链表中的重复元素II.md)
+- [82-删除排序链表中的重复元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/82-删除排序链表中的重复元素II.md)
 
 - [剑指Offer-06-从尾到头打印链表](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-06-从尾到头打印链表.md)
 

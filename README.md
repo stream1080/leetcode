@@ -81,7 +81,7 @@
 
 - [299-猜数字游戏](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/299-猜数字游戏.md)
 
-- [520-检测大写字母](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/520-检测大写字母.md)
+- [520-检测大写字母](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/520-检测大写字母.md)
 
 - [859-亲密字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/859-亲密字符串.md)
 

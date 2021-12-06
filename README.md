@@ -102,7 +102,7 @@
 
 - [92-反转链表II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/92-反转链表II.md)
 
-- [24-两两交换链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/24-两两交换链表中的节点.md)
+- [24-两两交换链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/24-两两交换链表中的节点.md)
 
 - [25-K个一组翻转链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/25-K个一组翻转链表.md)
 

@@ -87,6 +87,8 @@
 
 - [856-括号的分数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/856-括号的分数.md)
 
+- [1816-截断句子](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1816-截断句子.md)
+
 
 ## 链表
 

@@ -104,7 +104,7 @@
 
 - [24-两两交换链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/24-两两交换链表中的节点.md)
 
-- [25-K个一组翻转链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/25-K个一组翻转链表.md)
+- [25-K个一组翻转链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/25-K个一组翻转链表.md)
 
 - [剑指Offer-35-复杂链表的复制](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-35-复杂链表的复制.md)
 

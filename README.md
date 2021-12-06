@@ -83,7 +83,7 @@
 
 - [520-检测大写字母](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/520-检测大写字母.md)
 
-- [859-亲密字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/859-亲密字符串.md)
+- [859-亲密字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/859-亲密字符串.md)
 
 - [856-括号的分数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/856-括号的分数.md)
 

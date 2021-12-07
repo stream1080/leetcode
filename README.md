@@ -110,7 +110,7 @@
 
 - [23-合并K个升序链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/23-合并K个升序链表.md)
 
-- [725-分隔链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/725-分隔链表.md)
+- [725-分隔链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/725-分隔链表.md)
 
 - [430-扁平化多级双向链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/430-扁平化多级双向链表.md)
 

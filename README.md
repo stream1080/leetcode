@@ -118,7 +118,7 @@
 
 ## 哈希表
 
-- [1436-旅行终点站](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/1436-旅行终点站.md)
+- [1436-旅行终点站](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1436-旅行终点站.md)
 
 - [260-只出现一次的数字III](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/260-只出现一次的数字III.md)
 

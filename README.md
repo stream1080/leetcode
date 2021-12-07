@@ -108,7 +108,7 @@
 
 - [剑指Offer-35-复杂链表的复制](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-35-复杂链表的复制.md)
 
-- [23-合并K个升序链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/23-合并K个升序链表.md)
+- [23-合并K个升序链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/23-合并K个升序链表.md)
 
 - [725-分隔链表](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/725-分隔链表.md)
 

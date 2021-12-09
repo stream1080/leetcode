@@ -142,7 +142,7 @@
 
 - [503-下一个更大元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/503-下一个更大元素II.md)
 
-- [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/42-接雨水.md)
+- [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/42-接雨水.md)
 
 - [84-柱状图中最大的矩形](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/84-柱状图中最大的矩形.md)
 

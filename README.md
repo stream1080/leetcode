@@ -140,7 +140,7 @@
 
 - [496-下一个更大元素I](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/496-下一个更大元素I.md)
 
-- [503-下一个更大元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/503-下一个更大元素II.md)
+- [503-下一个更大元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/503-下一个更大元素II.md)
 
 - [42-接雨水](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/42-接雨水.md)
 

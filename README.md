@@ -153,7 +153,7 @@
 
 - [144-二叉树的前序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/144-二叉树的前序遍历.md)
 
-- [94-二叉树的中序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/94-二叉树的中序遍历.md)
+- [94-二叉树的中序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/94-二叉树的中序遍历.md)
 
 - [145-二叉树的后序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/145-二叉树的后序遍历.md)
 

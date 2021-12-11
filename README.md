@@ -161,7 +161,7 @@
 
 - [103-二叉树的锯齿形层序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/103-二叉树的锯齿形层序遍历.md)
 
-- [104-二叉树的最大深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/104-二叉树的最大深度.md)
+- [104-二叉树的最大深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/104-二叉树的最大深度.md)
 
 - [111-二叉树的最小深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/111-二叉树的最小深度.md)
 

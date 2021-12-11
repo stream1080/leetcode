@@ -159,7 +159,7 @@
 
 - [102-二叉树的层序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/102-二叉树的层序遍历.md)
 
-- [103-二叉树的锯齿形层序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/103-二叉树的锯齿形层序遍历.md)
+- [103-二叉树的锯齿形层序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/103-二叉树的锯齿形层序遍历.md)
 
 - [104-二叉树的最大深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/104-二叉树的最大深度.md)
 

@@ -165,7 +165,7 @@
 
 - [111-二叉树的最小深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/111-二叉树的最小深度.md)
 
-- [101-对称二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/101-对称二叉树.md)
+- [101-对称二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/101-对称二叉树.md)
 
 - [110-平衡二叉树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/110-平衡二叉树.md)
 

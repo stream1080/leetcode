@@ -181,7 +181,7 @@
 
 - [124-二叉树中的最大路径和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/124-二叉树中的最大路径和.md)
 
-- [437-路径总和III](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/437-路径总和III.md)
+- [437-路径总和III](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/437-路径总和III.md)
 
 - [700-二叉搜索树中的搜索](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/700-二叉搜索树中的搜索.md)
 

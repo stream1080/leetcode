@@ -179,7 +179,7 @@
 
 - [236-二叉树的最近公共祖先](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/236-二叉树的最近公共祖先.md)
 
-- [124-二叉树中的最大路径和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/124-二叉树中的最大路径和.md)
+- [124-二叉树中的最大路径和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/124-二叉树中的最大路径和.md)
 
 - [437-路径总和III](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/437-路径总和III.md)
 

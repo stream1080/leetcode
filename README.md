@@ -352,6 +352,8 @@
 
 - [695-岛屿的最大面积](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/695-岛屿的最大面积.md)
 
+- [419-甲板上的战舰](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/419-甲板上的战舰.md)
+
 
 ## 数据结构设计
 

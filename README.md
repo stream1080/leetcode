@@ -128,6 +128,7 @@
 
 - [911-在线选举](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/911-在线选举.md)
 
+- [997-找到小镇的法官](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/997-找到小镇的法官.md)
 
 ## 滑动窗口
 

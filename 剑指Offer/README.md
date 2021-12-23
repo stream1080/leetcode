@@ -26,7 +26,7 @@
 
 - [剑指Offer-53-在排序数组中查找数字I](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-53-在排序数组中查找数字I.md)
 
-- [剑指Offer-53-0～n-1中缺失的数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-53-0～n-1中缺失的数字.md)
+- [剑指Offer-53-0～n-1中缺失的数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-53-0～n-1中缺失的数字II.md)
 
 ### 第五天
 

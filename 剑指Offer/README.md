@@ -34,7 +34,7 @@
 
 - [剑指Offer-11-旋转数组的最小数字](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-11-旋转数组的最小数字.md)
 
-- [剑指Offer-50-第一个只出现一次的字符](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-53-0～n-1中缺失的数字.md)
+- [剑指Offer-50-第一个只出现一次的字符](https://github.com/stream1080/leetcode/blob/main/剑指Offer/docs/剑指Offer-50-第一个只出现一次的字符.md)
 
 ### 第六天
 

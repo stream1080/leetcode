@@ -186,6 +186,8 @@
 
 - [700-二叉搜索树中的搜索](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/700-二叉搜索树中的搜索.md)
 
+- [1609-奇偶树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1609-奇偶树.md)
+
 ## 动态规划
 
 ### 基础

@@ -2,7 +2,8 @@
 
 ### 第一天
 
-- [1-两数之和](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/1.两数之和.md)
+- [1-两数之和](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/1-两数之和.md)
+
 
 - [167-两数之和II-输入有序数组](https://github.com/stream1080/leetcode/blob/main/面试高效关计划/docs/167-两数之和II-输入有序数组.md)
 

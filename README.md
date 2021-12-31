@@ -398,3 +398,5 @@
 - [677-键值映射](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/677-键值映射.md)
 
 - [1518-换酒问题](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1518-换酒问题.md)
+
+- [507-完美数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/507-完美数.md)

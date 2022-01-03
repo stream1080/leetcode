@@ -400,3 +400,5 @@
 - [1518-换酒问题](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1518-换酒问题.md)
 
 - [507-完美数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/507-完美数.md)
+
+- [1185-一周中的第几天](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1185-一周中的第几天.md)

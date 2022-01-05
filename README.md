@@ -93,6 +93,7 @@
 
 - [709-转换成小写字母](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/709-转换成小写字母.md)
 
+- [1576-替换所有的问号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1576-替换所有的问号.md)
 
 ## 链表
 

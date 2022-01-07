@@ -156,6 +156,7 @@
 
 - [32-最长有效括号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/32-最长有效括号.md)
 
+- [1614-括号的最大嵌套深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1614-括号的最大嵌套深度.md)
 
 ## 二叉树
 

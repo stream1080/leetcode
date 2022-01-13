@@ -52,6 +52,8 @@
 
 - [846-一手顺子](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/846-一手顺子.md)
 
+- [747-至少是其他数字两倍的最大数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/747-至少是其他数字两倍的最大数.md)
+
 
 ## 字符串
 

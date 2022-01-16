@@ -123,6 +123,8 @@
 
 - [237-删除链表中的节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/237-删除链表中的节点.md)
 
+- [382-链表随机节点](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/382-链表随机节点.md)
+
 ## 哈希表
 
 - [1436-旅行终点站](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1436-旅行终点站.md)

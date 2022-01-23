@@ -408,3 +408,5 @@
 - [507-完美数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/507-完美数.md)
 
 - [1185-一周中的第几天](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1185-一周中的第几天.md)
+
+- [1332-删除回文子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1332-删除回文子序列.md)

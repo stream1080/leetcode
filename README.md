@@ -410,3 +410,5 @@
 - [1185-一周中的第几天](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1185-一周中的第几天.md)
 
 - [1332-删除回文子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1332-删除回文子序列.md)
+
+- [2029-石子游戏IX](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/2029-石子游戏IX.md)

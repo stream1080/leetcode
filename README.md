@@ -419,3 +419,5 @@
 - [2029-石子游戏IX](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/2029-石子游戏IX.md)
 
 - [1688-比赛中的配对次数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1688-比赛中的配对次数.md)
+
+- [1414-和为K的最少斐波那契数字数目](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1414-和为K的最少斐波那契数字数目.md)

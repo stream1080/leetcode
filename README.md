@@ -142,6 +142,8 @@
 
 - [219-存在重复元素II](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/219-存在重复元素II.md)
 
+- [2006-差的绝对值为K的数对数目](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/2006-差的绝对值为K的数对数目.md)
+
 ## 滑动窗口
 
 - [209-长度最小的子数组](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/209-长度最小的子数组.md)

@@ -372,6 +372,7 @@
 
 - [419-甲板上的战舰](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/419-甲板上的战舰.md)
 
+- [1020-飞地的数量](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1020-飞地的数量.md)
 
 ## 数据结构设计
 

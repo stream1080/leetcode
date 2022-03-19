@@ -205,6 +205,8 @@
 
 - [1609-奇偶树](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1609-奇偶树.md)
 
+- [606-根据二叉树创建字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/606-根据二叉树创建字符串.md)
+
 ## 动态规划
 
 ### 基础

@@ -56,6 +56,8 @@
 
 - [1380-矩阵中的幸运数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1380-矩阵中的幸运数.md)
 
+- [26-删除有序数组中的重复项](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/26-删除有序数组中的重复项.md)
+
 
 ## 字符串
 

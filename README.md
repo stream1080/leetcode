@@ -438,3 +438,5 @@
 - [1414-和为K的最少斐波那契数字数目](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1414-和为K的最少斐波那契数字数目.md)
 
 - [1748-唯一元素的和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1748-唯一元素的和.md)
+
+- [728-自除数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/728-自除数.md)

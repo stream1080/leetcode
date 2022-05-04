@@ -442,3 +442,5 @@
 - [1748-唯一元素的和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1748-唯一元素的和.md)
 
 - [728-自除数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/728-自除数.md)
+
+- [1823-找出游戏的获胜者](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1823-找出游戏的获胜者.md)

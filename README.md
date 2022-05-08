@@ -60,6 +60,8 @@
 
 - [41-缺失的第一个正数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/41-缺失的第一个正数.md)
 
+- [442-数组中重复的数据](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/442-数组中重复的数据.md)
+
 
 ## 字符串
 

@@ -60,6 +60,8 @@
 
 - [41-缺失的第一个正数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/41-缺失的第一个正数.md)
 
+- [442-数组中重复的数据](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/442-数组中重复的数据.md)
+
 
 ## 字符串
 
@@ -442,5 +444,7 @@
 - [1748-唯一元素的和](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1748-唯一元素的和.md)
 
 - [728-自除数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/728-自除数.md)
+
+- [933-最近的请求次数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/933-最近的请求次数.md)
 
 - [1823-找出游戏的获胜者](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1823-找出游戏的获胜者.md)

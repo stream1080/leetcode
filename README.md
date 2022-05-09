@@ -107,6 +107,8 @@
 
 - [884-两句话中的不常见单词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/884-两句话中的不常见单词.md)
 
+- [942-增减字符串匹配](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/942-增减字符串匹配.md)
+
 
 ## 链表
 

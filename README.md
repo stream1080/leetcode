@@ -62,6 +62,7 @@
 
 - [442-数组中重复的数据](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/442-数组中重复的数据.md)
 
+- [944-删列造序](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/944-删列造序.md)
 
 ## 字符串
 

@@ -451,3 +451,5 @@
 - [933-最近的请求次数](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/933-最近的请求次数.md)
 
 - [1823-找出游戏的获胜者](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1823-找出游戏的获胜者.md)
+
+- [面试题0105-一次编辑](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/面试题0105-一次编辑.md)

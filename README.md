@@ -62,6 +62,7 @@
 
 - [442-数组中重复的数据](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/442-数组中重复的数据.md)
 
+- [944-删列造序](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/944-删列造序.md)
 
 ## 字符串
 
@@ -106,6 +107,8 @@
 - [1576-替换所有的问号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1576-替换所有的问号.md)
 
 - [884-两句话中的不常见单词](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/884-两句话中的不常见单词.md)
+
+- [942-增减字符串匹配](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/942-增减字符串匹配.md)
 
 
 ## 链表

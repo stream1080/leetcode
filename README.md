@@ -180,6 +180,8 @@
 
 - [1614-括号的最大嵌套深度](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1614-括号的最大嵌套深度.md)
 
+- [1021-删除最外层的括号](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1021-删除最外层的括号.md)
+
 ## 二叉树
 
 - [144-二叉树的前序遍历](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/144-二叉树的前序遍历.md)

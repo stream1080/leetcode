@@ -11,3 +11,7 @@
 - [205-同构字符串](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/205-同构字符串.md)
 
 - [392-判断子序列](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/392-判断子序列.md)
+
+### 第 3 天
+
+- [21-合并两个有序链表](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/21-合并两个有序链表.md)

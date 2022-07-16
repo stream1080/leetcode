@@ -163,6 +163,8 @@
 
 - [594-最长和谐子序列](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/594-最长和谐子序列.md)
 
+- [剑指Offer-II-41-滑动窗口的平均值](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/剑指Offer-II-41-滑动窗口的平均值.md)
+
 
 ## 栈相关
 

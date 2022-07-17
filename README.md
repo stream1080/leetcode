@@ -64,6 +64,8 @@
 
 - [944-删列造序](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/944-删列造序.md)
 
+- [565-数组嵌套](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/565-数组嵌套.md)
+
 ## 字符串
 
 - [003-无重复字符的最长子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/03-无重复字符的最长子串.md)

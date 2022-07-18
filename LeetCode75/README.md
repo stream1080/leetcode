@@ -29,3 +29,7 @@
 - [121-买卖股票的最佳时机](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/121-买卖股票的最佳时机.md)
 
 - [409-最长回文串](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/409-最长回文串.md)
+
+### 第 6 天
+
+- [589-N叉树的前序遍历](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/589-N叉树的前序遍历.md)

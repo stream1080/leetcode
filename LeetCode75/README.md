@@ -35,3 +35,7 @@
 - [589-N叉树的前序遍历](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/589-N叉树的前序遍历.md)
 
 - [102-二叉树的层序遍历](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/102-二叉树的层序遍历.md)
+
+### 第 7 天
+
+- [704-二分查找](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/704-二分查找.md)

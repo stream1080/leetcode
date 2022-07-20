@@ -45,3 +45,5 @@
 ### 第 7 天
 
 - [98-验证二叉搜索树](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/98-验证二叉搜索树.md)
+
+- [235-二叉搜索树的最近公共祖先](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/235-二叉搜索树的最近公共祖先.md)

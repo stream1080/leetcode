@@ -41,3 +41,7 @@
 - [704-二分查找](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/704-二分查找.md)
 
 - [278-第一个错误的版本](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/278-第一个错误的版本.md)
+
+### 第 7 天
+
+- [98-验证二叉搜索树](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/98-验证二叉搜索树.md)

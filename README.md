@@ -226,6 +226,8 @@
 
 - [1305-两棵二叉搜索树中的所有元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1305-两棵二叉搜索树中的所有元素.md)
 
+- [814-二叉树剪枝](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/814-二叉树剪枝.md)
+
 ## 动态规划
 
 ### 基础

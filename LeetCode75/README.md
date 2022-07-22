@@ -63,3 +63,5 @@
 ### 第 11 天
 
 - [746-使用最小花费爬楼梯](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/746-使用最小花费爬楼梯.md)
+
+- [62-不同路径](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/62-不同路径.md)

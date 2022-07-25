@@ -75,3 +75,5 @@
 ### 第 13 天
 
 - [1-两数之和](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/1-两数之和.md)
+
+- [299-猜数字游戏](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/299-猜数字游戏.md)

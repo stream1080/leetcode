@@ -71,3 +71,7 @@
 - [438-找到字符串中所有字母异位词](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/438-找到字符串中所有字母异位词.md)
 
 - [424-替换后的最长重复字符](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/424-替换后的最长重复字符.md)
+
+### 第 13 天
+
+- [1-两数之和](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/1-两数之和.md)

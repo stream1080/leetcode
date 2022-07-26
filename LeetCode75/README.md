@@ -81,3 +81,5 @@
 ### 第 14 天
 
 - [844-比较含退格的字符串](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/844-比较含退格的字符串.md)
+
+- [394-字符串解码](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/394-字符串解码.md)

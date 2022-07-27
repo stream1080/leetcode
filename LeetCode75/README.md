@@ -87,3 +87,5 @@
 ### 第 15 天
 
 - [1046-最后一块石头的重量](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/1046-最后一块石头的重量.md)
+
+- [692-前K个高频单词](https://github.com/stream1080/leetcode/blob/main/LeetCode75/docs/692-前K个高频单词.md)

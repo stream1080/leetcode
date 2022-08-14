@@ -114,6 +114,7 @@
 
 - [942-增减字符串匹配](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/942-增减字符串匹配.md)
 
+- [1422-分割字符串的最大得分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1422-分割字符串的最大得分.md)
 
 ## 链表
 

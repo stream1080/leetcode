@@ -68,6 +68,8 @@
 
 - [1184-公交站间的距离](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1184-公交站间的距离.md)
 
+- [1582-二进制矩阵中的特殊位置](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1184-公交站间的距离.md)
+
 ## 字符串
 
 - [003-无重复字符的最长子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/03-无重复字符的最长子串.md)

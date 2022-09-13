@@ -473,6 +473,8 @@
 
 - [1464-数组中两元素的最大乘积](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1464-数组中两元素的最大乘积.md)
 
+- [1608-特殊数组的特征值](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1608-特殊数组的特征值.md)
+
 ## 面试题
 
 - [面试题0105-一次编辑](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/面试题0105-一次编辑.md)

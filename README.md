@@ -72,6 +72,8 @@
 
 - [646-最长数对链](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/646-最长数对链.md)
 
+- [1619-删除某些元素后的数组均值](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1619-删除某些元素后的数组均值.md)
+
 ## 字符串
 
 - [003-无重复字符的最长子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/03-无重复字符的最长子串.md)

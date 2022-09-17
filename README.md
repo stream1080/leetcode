@@ -122,6 +122,8 @@
 
 - [1422-分割字符串的最大得分](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1422-分割字符串的最大得分.md)
 
+- [1624-两个相同字符之间的最长子字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1624-两个相同字符之间的最长子字符串.md)
+
 ## 链表
 
 - [83-删除排序链表中的重复元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/83-删除排序链表中的重复元素.md)

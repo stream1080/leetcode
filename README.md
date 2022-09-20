@@ -479,6 +479,8 @@
 
 - [1608-特殊数组的特征值](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1608-特殊数组的特征值.md)
 
+- [1636-按照频率将数组升序排序](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1636-按照频率将数组升序排序.md)
+
 ## 面试题
 
 - [面试题0105-一次编辑](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/面试题0105-一次编辑.md)

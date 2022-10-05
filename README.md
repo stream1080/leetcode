@@ -124,6 +124,8 @@
 
 - [1624-两个相同字符之间的最长子字符串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1624-两个相同字符之间的最长子字符串.md)
 
+- [921-使括号有效的最少添加](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/921-使括号有效的最少添加.md)
+
 ## 链表
 
 - [83-删除排序链表中的重复元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/83-删除排序链表中的重复元素.md)

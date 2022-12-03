@@ -128,6 +128,8 @@
 
 - [921-使括号有效的最少添加](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/921-使括号有效的最少添加.md)
 
+- [1796-字符串中第二大的数字](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1796-字符串中第二大的数字.md)
+
 ## 链表
 
 - [83-删除排序链表中的重复元素](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/83-删除排序链表中的重复元素.md)

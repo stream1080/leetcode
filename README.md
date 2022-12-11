@@ -76,6 +76,8 @@
 
 - [1732-找到最高海拔](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1732-找到最高海拔.md)
 
+- [1827-最少操作使数组递增](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/1827-最少操作使数组递增.md)
+
 ## 字符串
 
 - [003-无重复字符的最长子串](https://github.com/stream1080/leetcode/blob/main/OtherAnswer/docs/03-无重复字符的最长子串.md)
